@@ -17,6 +17,7 @@ This page aggregates all the resources of Openshift Virtualization (OCP-V) inclu
 * [Performance](#performance)
 * [HW Reference](#hw-reference)
 * [DR](#dr)
+* [VMA](#vma)
 * [Recorded demo](#recorded-demo)
 * [Others](#others)
 * [Customers Reference](#customers-reference)
@@ -169,6 +170,9 @@ This page aggregates all the resources of Openshift Virtualization (OCP-V) inclu
   [Product documentation](https://access.redhat.com/documentation/en-us/red_hat_openshift_data_foundation/4.13/html/configuring_openshift_data_foundation_disaster_recovery_for_openshift_workloads/rdr-solution)
 
 [Disaster Recovery KCS](https://access.redhat.com/articles/7007419)     
+
+## VMA
+[OpenShift Virtualization Migration Dashboard](https://lookerstudio.google.com/s/qKhwMop98cw)
 
 ## Recorded demo  
 
