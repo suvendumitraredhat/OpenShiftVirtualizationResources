@@ -124,6 +124,7 @@ This page aggregates all the resources of Openshift Virtualization (OCP-V) inclu
 ## Partner
 
 [Partner list](https://www.redhat.com/en/technologies/cloud-computing/openshift/virtualization#partners)
+[OpenShift Virt ISV Certification Request List](https://docs.google.com/spreadsheets/d/16W69NZ0Q6fBpU2gI3KpE7GOn85j8SB9g4cKyhETJ23s/edit?usp=sharing)
 
 ## Interactive Demo
 
