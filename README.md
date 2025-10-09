@@ -122,6 +122,8 @@ This page aggregates all the resources of Openshift Virtualization (OCP-V) inclu
 
 [Virt Storage Performance & Scale](https://docs.google.com/spreadsheets/d/11OB05w6lf9rby8BOc2UBEYdaHTps6F0TF3BpnuIjYPw/edit?usp=sharing)
 
+[Storage Vendors OpenShift Virtualization Compatibility Detailed](https://access.redhat.com/articles/7128992)
+
 ## Partner
 
 [Partner list](https://www.redhat.com/en/technologies/cloud-computing/openshift/virtualization#partners)
