@@ -51,6 +51,9 @@ This page aggregates all the resources of Openshift Virtualization (OCP-V) inclu
 
 **Performance**  
 
+[CIS Redhat OpenShiftVirtual Machine Extension Benchmark](https://drive.google.com/file/d/1fRUCVk4P10yesuO7Gbws3eXqRi-jDCRO/view?usp=sharing)
+
+
 ##(OCP-V future release Jira 
 (OCP-V release candidate feature list]()
 
