@@ -49,6 +49,11 @@ This page aggregates all the resources of Openshift Virtualization (OCP-V) inclu
 
 [Single-instance Oracle Database on OpenShift Virtualization](https://www.redhat.com/en/blog/single-instance-oracle-database-openshift-virtualization)
 
+**Networking**  
+[How to import provider networks to the cluster default network](https://developers.redhat.com/articles/2025/10/21/how-import-provider-network-routes-openshift-bgp#how_to_import_provider_networks_to_the_cluster_default_network)
+
+[Exposing OpenShift networks using BGP](https://developers.redhat.com/articles/2025/10/23/exposing-openshift-networks-using-bgp)
+
 **Performance**  
 
 [CIS Redhat OpenShiftVirtual Machine Extension Benchmark](https://drive.google.com/file/d/1fRUCVk4P10yesuO7Gbws3eXqRi-jDCRO/view?usp=sharing)
