@@ -66,11 +66,8 @@ This page aggregates all the resources of Openshift Virtualization (OCP-V) inclu
 
 ### Notebook LLM
 
-[Red Hat Subscription Guide](https://notebooklm.google.com/notebook/22f2761e-2a6e-4b0c-aa7a-876f41c6294b)
+[Notebook LLM marketplace ](https://script.google.com/a/macros/redhat.com/s/AKfycbzpQSvzuzYpQ-77fddL18sUsZ2nqMBQT2tkqDvB-IAM-J-as6NPlc3rIuZfjmwhfBJ6zg/exec)
 
-[OpenShift 4.19 & Layered Products](https://notebooklm.google.com/notebook/d5adc878-0452-4eb9-afb8-b65a3871e86e)
-
-[All RH notebook LLM](https://docs.google.com/document/d/1PnBKOLFbwgeziavwBjYpbvcNoRqqZ9A4c1ztgYApHJw/edit?usp=sharing)
 ## Supportability
 [Supportability and Interoperability Guide]()
 
