@@ -76,6 +76,9 @@ This page aggregates all the resources of Openshift Virtualization (OCP-V) inclu
 [Supportability and Interoperability Checker]()
 
 ## Knowledge Articles
+
+[Unsupported/Not Recommended vSphere Features and Configurations in OpenShift](https://access.redhat.com/articles/7133663)
+
 [OCP disconnected: How to identify all the dependent operators for a particular operator in RHOCP4](https://access.redhat.com/solutions/7100980)
 
 [MTV migration doesn’t preserve all Windows network configuration settings](https://access.redhat.com/solutions/7081152)
