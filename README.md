@@ -31,6 +31,8 @@ This page aggregates all the resources of Openshift Virtualization (OCP-V) inclu
 
 [OpenShift Virtualization Architecture Guide](https://access.redhat.com/articles/7119411)
 
+[OpenShift Virtualization Example Architecture: 1000 virtual machines](https://access.redhat.com/sites/default/files/attachments/openshift_virtualization_example_architecture_-_1000_virtual_machines.pdf)
+
 [Bare Metal Installation Considerations for Red Hat OpenShift Virtualization](https://docs.google.com/document/d/1ynqxYOYp5CcPY8_Cy-KW1Bmbug9Y3ZP6EnUH5pV6qrw/edit?usp=sharing)
 
 [OpenShift Virtualization - Reference Implementation Guide](https://access.redhat.com/articles/7067871)
