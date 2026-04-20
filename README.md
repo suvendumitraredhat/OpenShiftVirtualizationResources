@@ -5,7 +5,7 @@
 This page aggregates all the resources of Openshift Virtualization (OCP-V) including KCS, white paper, suppportability etc
 
 ## Table of Contents
-* [Migration] (#migration)
+* [Migration](#migration)
 * [White papers](#white-papers)
 * [Subscription Guide](#subscription-guide)
 * [Supportability](#supportability)
@@ -29,7 +29,10 @@ This page aggregates all the resources of Openshift Virtualization (OCP-V) inclu
 ### OpenShift Migration Advisor <br>
 OpenShift Migration Advisor is available on [console.redhat.com](https://console.redhat.com/) <br>
 [Recording](https://saleshub.redhat.com/apps/doccenter/1d1918e9-b5b0-4428-b8fc-87e02ad44156/doc/%25252Fdd04d516a5-19b3-48c9-e01a-d2bf52939de4%25252FdfMmNhNDhiYjktYzE1Ny00ZjgyLWJlYjUtNTdhY2NjZmY5Y2Rh%25252CPT0%25253D%25252CVmlkZW8%25253D%25252Flffb4e72cd-3c27-4634-8c8d-adbb356d0cbf//) <br>
-[rvtools](https://www.dell.com/en-us/shop/vmware/sl/rvtools)
+[rvtools](https://www.dell.com/en-us/shop/vmware/sl/rvtools) <br>
+[Recordings Power90](https://saleshub.redhat.com/Link/Content/DCP4fpg87RpcQGqDP4M4bbdqVh9d#/?anchorId=f8c4deda-da47-475c-bc79-4f212f1cf694) <br>
+[Slides Power90](https://saleshub.redhat.com/Link/Content/DCcc3GPpMPF4WGcGBVf2dX8b6Bm3) <br>
+
 ## White papers
 <!-- ${\color{grey}Databases}$ -->
 
