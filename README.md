@@ -191,7 +191,9 @@ OpenShift Migration Advisor is available on [console.redhat.com](https://console
   - Public Clouds and On-Prem platforms   
   [Product documentation](https://access.redhat.com/documentation/en-us/red_hat_openshift_data_foundation/4.13/html/configuring_openshift_data_foundation_disaster_recovery_for_openshift_workloads/rdr-solution)
 
-[Disaster Recovery KCS](https://access.redhat.com/articles/7007419)     
+[ODF Disaster Recovery KCS in general](https://access.redhat.com/articles/7007419)
+
+[ODF DR for OCP-V](https://access.redhat.com/articles/7053115)
 
 ## VMA
 [OpenShift Virtualization Migration Dashboard](https://lookerstudio.google.com/s/qKhwMop98cw)
