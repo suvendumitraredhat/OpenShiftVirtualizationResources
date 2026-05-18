@@ -195,6 +195,8 @@ OpenShift Migration Advisor is available on [console.redhat.com](https://console
 
 [ODF DR for OCP-V](https://access.redhat.com/articles/7053115)
 
+[RamenDR Starter Kit 2025 Latest](https://validatedpatterns.io/blog/2025-11-17-introducing-ramendr-starter-kit/)
+
 ## VMA
 [OpenShift Virtualization Migration Dashboard](https://lookerstudio.google.com/s/qKhwMop98cw)
 
