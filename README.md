@@ -132,7 +132,21 @@ OpenShift Migration Advisor is available on [console.redhat.com](https://console
 [Dynamic VM CPU Workload Rebalancing with Load Aware Descheduler](https://developers.redhat.com/blog/2025/06/03/dynamic-vm-cpu-workload-rebalancing-load-aware-descheduler)
 
 [How to Create Automatically Updating Boot Source Images](https://www.redhat.com/en/blog/how-to-make-sure-custom-boot-source-images-are-automatically-updated)
+
+[Troubleshoot Red Hat OpenShift Virtualization localnet with the netobserv command](https://developers.redhat.com/articles/2026/07/10/troubleshoot-localnet-virtual-machines-with-oc-netobserv)
+
+[Running database workloads on Red Hat OpenShift Virtualization](https://developers.redhat.com/articles/2026/07/08/running-database-workloads-red-hat-openshift-virtualization)
+
+[Explaining hosted control planes as well as pros and cons of this architecture](https://developers.redhat.com/articles/2026/07/01/demystify-terminology-openshift-hosted-control-planes#demystifying_naming_conventions)
+
 []()
+
+[]()
+
+[]()
+
+[]()
+
 []()
 
 ## Storage
