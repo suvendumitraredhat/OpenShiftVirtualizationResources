@@ -7,6 +7,7 @@ This page aggregates all the resources of Openshift Virtualization (OCP-V) inclu
 ## Table of Contents
 * [Migration](#migration)
 * [White papers](#white-papers)
+* [Testing tool](#testing-tool)
 * [Subscription Guide](#subscription-guide)
 * [Supportability](#supportability)
 * [Knowledge Articles](#knowledge-articles)
@@ -72,6 +73,10 @@ OpenShift Migration Advisor is available on [console.redhat.com](https://console
 
 ##(OCP-V future release Jira 
 (OCP-V release candidate feature list]()
+
+## Testing tool
+
+[Kube-burner](https://kube-burner.github.io/kube-burner-ocp/latest/)
 
 ## Subscription Guide
 
