@@ -61,6 +61,8 @@ OpenShift Migration Advisor is available on [console.redhat.com](https://console
 
 [Single-instance Oracle Database on OpenShift Virtualization](https://www.redhat.com/en/blog/single-instance-oracle-database-openshift-virtualization)
 
+[Modernizing database workloads on Red Hat OpenShift](https://www.redhat.com/en/blog/modernizing-database-workloads-red-hat-openshift)
+
 **Networking**  
 [How to import provider networks to the cluster default network](https://developers.redhat.com/articles/2025/10/21/how-import-provider-network-routes-openshift-bgp#how_to_import_provider_networks_to_the_cluster_default_network)
 
