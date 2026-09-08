@@ -27,6 +27,9 @@ This page aggregates all the resources of Openshift Virtualization (OCP-V) inclu
 <!-- * [License](#license) -->
 
 ## Migration
+
+### VDDK issue
+VDDK availability: what changed, what it means for your customers, and what we're doing about it [https://source.redhat.com/departments/products_and_global_engineering/hybrid_platforms_business_unit/cloud_platforms_product_marketing/blog/vddk_availability_what_changed_what_it_means_for_your_customers_and_what_were_doing_about_it]  <br>
 ### OpenShift Migration Advisor <br>
 OpenShift Migration Advisor is available on [console.redhat.com](https://console.redhat.com/) <br>
 [Recording](https://saleshub.redhat.com/apps/doccenter/1d1918e9-b5b0-4428-b8fc-87e02ad44156/doc/%25252Fdd04d516a5-19b3-48c9-e01a-d2bf52939de4%25252FdfMmNhNDhiYjktYzE1Ny00ZjgyLWJlYjUtNTdhY2NjZmY5Y2Rh%25252CPT0%25253D%25252CVmlkZW8%25253D%25252Flffb4e72cd-3c27-4634-8c8d-adbb356d0cbf//) <br>
