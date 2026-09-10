@@ -6,7 +6,7 @@ This page aggregates all the resources of Openshift Virtualization (OCP-V) inclu
 
 ## Table of Contents
 * [Migration](#migration)
-* [White papers](#white-papers)
+* [Dashboard](#white-papers)
 * [Testing tool](#testing-tool)
 * [Subscription Guide](#subscription-guide)
 * [Supportability](#supportability)
@@ -37,8 +37,10 @@ OpenShift Migration Advisor is available on [console.redhat.com](https://console
 [Recordings Power90](https://saleshub.redhat.com/Link/Content/DCP4fpg87RpcQGqDP4M4bbdqVh9d#/?anchorId=f8c4deda-da47-475c-bc79-4f212f1cf694) <br>
 [Slides Power90](https://saleshub.redhat.com/Link/Content/DCcc3GPpMPF4WGcGBVf2dX8b6Bm3) <br>
 
-## White papers
+## Dashboard
 <!-- ${\color{grey}Databases}$ -->
+[OpenShift Virtualization Partner Assessment Dashboard](https://datastudio.google.com/s/kGIQ7KZO38M) <br>
+[RH Services Virtualization Migration Dashboard](https://datastudio.google.com/s/gTy30t-VZdY) <br>
 
 **OpenShift Virtualization** 
 
