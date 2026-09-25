@@ -104,6 +104,7 @@ OpenShift Migration Advisor is available on [console.redhat.com](https://console
 [Why VM snapshot in OpenShift Virtualization is failing during fsfreeze with permission denied error?](https://access.redhat.com/solutions/7030558) <br>
 [Virtual Machine with Database workload has high iowait and load averages](https://access.redhat.com/solutions/7030558) <br>
 [VM Migration from VMware to Openshift Virtualization fails due to Unsupported RDM disks](https://access.redhat.com/solutions/7099759) <br>
+[Support Policies for RHEL High Availability Clusters - Red Hat OpenShift Virtualization Virtual Machines as Cluster Members](https://access.redhat.com/articles/6957995) <br>
 
 ## Blogs
 [Boost OpenShift database VM density with memory overcommit](https://developers.redhat.com/blog/2025/02/25/scalable-database-performance-openshift-virtualization-out-box#) <br>
