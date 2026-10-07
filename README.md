@@ -64,28 +64,24 @@ OpenShift Migration Advisor is available on [console.redhat.com](https://console
 
 **Performance**  
 
-[CIS Redhat OpenShiftVirtual Machine Extension Benchmark](https://drive.google.com/file/d/1fRUCVk4P10yesuO7Gbws3eXqRi-jDCRO/view?usp=sharing)
-
+[CIS Redhat OpenShiftVirtual Machine Extension Benchmark](https://drive.google.com/file/d/1fRUCVk4P10yesuO7Gbws3eXqRi-jDCRO/view?usp=sharing) <br>
 
 ##(OCP-V future release Jira 
 (OCP-V release candidate feature list]()
 
 ## Testing tool
 
-[Kube-burner](https://kube-burner.github.io/kube-burner-ocp/latest/)
+[Kube-burner](https://kube-burner.github.io/kube-burner-ocp/latest/) <br>
 
 ## Subscription Guide
 
 ### Notebook LLM
 
-[Notebook LLM marketplace ](https://script.google.com/a/macros/redhat.com/s/AKfycbzpQSvzuzYpQ-77fddL18sUsZ2nqMBQT2tkqDvB-IAM-J-as6NPlc3rIuZfjmwhfBJ6zg/exec)
+[Notebook LLM marketplace ](https://script.google.com/a/macros/redhat.com/s/AKfycbzpQSvzuzYpQ-77fddL18sUsZ2nqMBQT2tkqDvB-IAM-J-as6NPlc3rIuZfjmwhfBJ6zg/exec) <br>
 
 ## Supportability
-[Supportability and Interoperability Guide]()
+[Certified Guest Operating Systems in OpenShift Virtualization](https://access.redhat.com/articles/4234591) <br>
 
-[Features/Integrations supported by OpenShift Virtualization]()
-
-[Supportability and Interoperability Checker]()
 
 ## Knowledge Articles
 [Unsupported/Not Recommended vSphere Features and Configurations in OpenShift](https://access.redhat.com/articles/7133663) <br>
