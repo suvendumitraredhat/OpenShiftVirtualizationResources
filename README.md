@@ -114,6 +114,7 @@ OpenShift Migration Advisor is available on [console.redhat.com](https://console
 [Running database workloads on Red Hat OpenShift Virtualization](https://developers.redhat.com/articles/2026/07/08/running-database-workloads-red-hat-openshift-virtualization) <br>
 [Explaining hosted control planes as well as pros and cons of this architecture](https://developers.redhat.com/articles/2026/07/01/demystify-terminology-openshift-hosted-control-planes#demystifying_naming_conventions) <br>
 [Scale enterprise analytics by running Cloudera Data Platform with OpenShift Virtualization](https://www.redhat.com/en/blog/scale-enterprise-analytics-running-cloudera-data-platform-openshift-virtualization) <br>
+[Red Hat OpenShift Virtualization memory management overview](https://developers.redhat.com/articles/2026/10/15/red-hat-openshift-virtualization-memory-management-overview?) <br>
 
 []()
 
