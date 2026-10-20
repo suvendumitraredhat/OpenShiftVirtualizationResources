@@ -127,6 +127,8 @@ OpenShift Migration Advisor is available on [console.redhat.com](https://console
 []()
 
 ## Storage
+### IMPORTANT [OpenShift Virtualization: Storage Compatibility Detailed](https://access.redhat.com/articles/7128992) <br>
+
 [Storage Integration Dashboard from Engneering (under VPN)](https://storage-dashboard-storage-dashboard.apps.cyosef.apps.eco-engineering.lab.eng.tlv2.redhat.com/) <br>
 [VMA dashboard](https://lookerstudio.google.com/s/m3SGJk25BcM) <br>
 [Virt Storage Performance & Scale](https://docs.google.com/spreadsheets/d/11OB05w6lf9rby8BOc2UBEYdaHTps6F0TF3BpnuIjYPw/edit?usp=sharing) <br>
