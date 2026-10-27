@@ -84,6 +84,7 @@ OpenShift Migration Advisor is available on [console.redhat.com](https://console
 
 
 ## Knowledge Articles
+[Why does the default network of OCP-V VMs always get an IP allocation of 10.0.2.2?](https://access.redhat.com/solutions/7128433) <br>
 [How to Clone a VM from one Namespace to another Namespace](https://access.redhat.com/solutions/7090765) <br>
 [Unsupported/Not Recommended vSphere Features and Configurations in OpenShift](https://access.redhat.com/articles/7133663) <br>
 [OCP disconnected: How to identify all the dependent operators for a particular operator in RHOCP4](https://access.redhat.com/solutions/7100980) <br>
