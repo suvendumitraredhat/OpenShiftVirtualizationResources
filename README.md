@@ -106,6 +106,7 @@ OpenShift Migration Advisor is available on [console.redhat.com](https://console
 [Support Policies for RHEL High Availability Clusters - Red Hat OpenShift Virtualization Virtual Machines as Cluster Members](https://access.redhat.com/articles/6957995) <br>
 
 ## Blogs
+[Performance-How to run I/O workloads on OpenShift Virtualization VMs](https://developers.redhat.com/articles/2026/11/03/how-run-io-workloads-openshift-virtualization-vms#) <br>
 [Scaling localnet user-defined networks (CUDNs) in Red Hat OpenShift to 3,500 networks](https://developers.redhat.com/articles/2026/09/21/scaling-localnet-cudn-user-defined-networks-in-red-hat-openshift-to-3500-networks#) <br>
 [Boost OpenShift database VM density with memory overcommit](https://developers.redhat.com/blog/2025/02/25/scalable-database-performance-openshift-virtualization-out-box#) <br>
 [Scalable Database Performance with OpenShift Virtualization, Out-of-the-Box](https://developers.redhat.com/blog/2025/02/25/scalable-database-performance-openshift-virtualization-out-box#) <br>
